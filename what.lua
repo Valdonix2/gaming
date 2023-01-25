@@ -51,7 +51,7 @@ local entityTable = Spawner.createEntity({
             },
         },
     },
-    CustomDialog = {"if you hear the heavenly charm run away back into the chambers you have already seen...."}, -- Custom death message
+    CustomDialog = {"If you hear the bell run away back into the chambers you have already seen...."}, -- Custom death message
 })
 
 
